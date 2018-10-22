@@ -1,2 +1,3 @@
-# Game1
-Pong game (unreal engine)
+# Pong game (unreal engine)
+
+Abandoned project.
